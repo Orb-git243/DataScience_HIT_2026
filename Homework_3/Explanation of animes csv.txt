@@ -1,0 +1,11 @@
+https://www.kaggle.com/datasets/battos/myanimelist-animes?resource=download
+
+MyAnimeList Anime Data:
+
+This dataset contains comprehensive information on anime gathered from MyAnimeList (MAL), one of the world's largest active anime and manga communities. It includes a wide range of data points, including broadcast details, genres, production studios, user scores, and engagement metrics.
+
+The dataset consists of a single CSV file (animes.csv).
+
+Last update: 11/2025
+
+Data scraped from MyAnimeList. All intellectual property rights belong to their respective owners.
